@@ -3,76 +3,41 @@
 
 ---
 
-## 🔭 I’m currently working on
-- **[LoyaLink – SaaS for Salons & Barbershops](https://github.com/Satyam296/Barbershop)**  
-  Bookings, loyalty, reviews, marketing – fully functional SaaS platform.
-
-- **[Brainly / Link Saver – Social Content Aggregator](https://github.com/Satyam296/Brainly-)**  
-  Save Twitter & YouTube links and discuss content with AI insights.
-
-- **[AI Chatbot & YOLO-based Drowsiness Detection](https://github.com/Satyam296/Yolo_Drowsiness_Detection-)**  
-  Conversational AI & real-time driver safety system.
+## 🔭 Currently Working On
+- **[LoyaLink – SaaS for Salons & Barbershops](https://github.com/Satyam296/Barbershop)** – Booking & loyalty platform  
+- **[Brainly / Link Saver](https://github.com/Satyam296/Brainly-)** – Social content aggregator  
+- **[AI Chatbot & YOLO Drowsiness Detection](https://github.com/Satyam296/Yolo_Drowsiness_Detection-)** – Conversational AI & safety system  
 
 ---
 
-## 🌱 I’m currently learning
-- Docker & Kubernetes  
-- Advanced TypeScript & Next.js  
-- Scaling AI & ML models  
+## 🌱 Learning
+Docker, Kubernetes, Advanced TypeScript & Next.js  
 
 ---
 
-## 👯 I’m looking to collaborate on
-- AI/ML projects with real-world impact  
-- SaaS products for businesses  
-- Scalable web applications  
+## 🏆 Achievements
+- Runner-up, Smart India Hackathon Grand Finale  
+- Second Runner-up, College Hackathon  
+- Built multiple SaaS & AI projects with active users  
 
 ---
 
-## 🤝 I’m looking for help with
-- Cloud deployment & CI/CD  
-- Optimizing AI/ML pipelines  
-- Advanced web automation  
-
----
-
-## 💬 Ask me about
-React, Vue, GSAP, SaaS development, project scaling, AI automation  
-
----
-
-## ⚡ Fun Fact
-I built a fully functional SaaS platform during my college semester and currently have **10 active users on LoyaLink**.  
-
----
-
-## 🏆 Achievements & Highlights
-- **Runner-up, Smart India Hackathon Grand Finale** – recognized for innovative tech solutions.  
-- **Second Runner-up in College Hackathon** – developed high-impact web/AI projects.  
-- **Built and deployed multiple SaaS products** with real active users.  
-- **Experienced in ML & Web Development** – successfully delivered projects integrating AI with real-world applications.  
-- **Recognized as an innovative and solution-oriented developer** in academic and industry-level competitions.  
-
----
-
-## 📫 How to reach me
-- **Email:** satyamchhetri629@gmail.com  
-- **Resume:** [View here](https://drive.google.com/file/d/1Rb_Grd9GkiYoTwOw1E74GIEIGp__gHiA/view?usp=sharing)  
-- **LinkedIn:** [Satyam Chhetri](https://linkedin.com/in/satyam-chhetri-010447318/)
-
----
-
-## 🛠 Languages and Tools
+## 🛠 Tech Stack
 <p align="left">
+<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
 <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
 <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
 </p>
 
 ---
@@ -96,8 +61,17 @@ I built a fully functional SaaS platform during my college semester and currentl
 
 ---
 
-## 📈 Projects Progress
+## 📈 Project Progress
 - **LoyaLink** [██████████] 100%  
 - **Brainly Link Saver** [████████░░] 80%  
 - **AI Chatbot** [███████░░░] 70%  
 - **YOLO Drowsiness Detection** [████████░░] 80%  
+
+---
+
+## 📫 Contact Me
+<p align="left">
+<a href="mailto:satyamchhetri629@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" alt="email" width="40" height="40"/></a>
+<a href="https://linkedin.com/in/satyam-chhetri-010447318/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" width="40" height="40"/></a>
+<a href="https://drive.google.com/file/d/1Rb_Grd9GkiYoTwOw1E74GIEIGp__gHiA/view?usp=sharing" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" alt="resume" width="40" height="40"/></a>
+</p>
