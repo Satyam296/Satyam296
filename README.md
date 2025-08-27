@@ -46,15 +46,19 @@ I built a fully functional SaaS platform during my college semester and currentl
 
 ---
 
+## 🏆 Achievements & Highlights
+- **Runner-up, Smart India Hackathon Grand Finale** – recognized for innovative tech solutions.  
+- **Second Runner-up in College Hackathon** – developed high-impact web/AI projects.  
+- **Built and deployed multiple SaaS products** with real active users.  
+- **Experienced in ML & Web Development** – successfully delivered projects integrating AI with real-world applications.  
+- **Recognized as an innovative and solution-oriented developer** in academic and industry-level competitions.  
+
+---
+
 ## 📫 How to reach me
 - **Email:** satyamchhetri629@gmail.com  
 - **Resume:** [View here](https://drive.google.com/file/d/1Rb_Grd9GkiYoTwOw1E74GIEIGp__gHiA/view?usp=sharing)  
 - **LinkedIn:** [Satyam Chhetri](https://linkedin.com/in/satyam-chhetri-010447318/)
-
----
-
-## 🕹 Fun Section: Snake Game 🐍
-*(Playable demo coming soon!)*
 
 ---
 
@@ -97,4 +101,3 @@ I built a fully functional SaaS platform during my college semester and currentl
 - **Brainly Link Saver** [████████░░] 80%  
 - **AI Chatbot** [███████░░░] 70%  
 - **YOLO Drowsiness Detection** [████████░░] 80%  
-
